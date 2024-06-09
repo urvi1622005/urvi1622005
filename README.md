@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Urvashi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India currently pursuing btech (cse) from maharishi markandeshwar deemed to be university (mulana)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urvi1622005&label=Profile%20views&color=0e75b6&style=flat" alt="urvi1622005" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=urvi1622005" alt="urvi1622005" /></a> </p>
 
-- 🔭 I’m currently working on **Forest Hill Restaurant**
+- 🔭 I’m currently working on **Forest Hill Restaurant website **
 
 - 🌱 I’m currently learning **chakra UI,Java+DSA**
 
